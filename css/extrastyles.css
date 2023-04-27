@@ -1,5 +1,5 @@
 .otherbody {
-    background-image: url('/assets/thurman meat.jpeg');
+    background-image: url('../assets/thurman meat.jpeg');
     background-size:cover;
     background-repeat:repeat;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
